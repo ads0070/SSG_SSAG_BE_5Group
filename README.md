@@ -5,12 +5,12 @@
 > 본 프로젝트는 스파로스 아카데미 1기에서 진행한 **SSG.COM 신세계몰 클론 코딩 프로젝트**입니다.
 
 - **쓱싹쓱싹(5조)의 백엔드 저장소**입니다.
+- [Demo](https://ssg-ssag.vercel.app/)
 
 ### Project Repositories
 
 - [프론트엔드](https://github.com/Im-hass/SSG_SSAG_FE)
 - [백엔드](https://github.com/K-J-HYEON/SSG_SSAG_BE)
-- [Demo](https://ssg-ssag.shop/)
 
 ### 요구사항 명세서
 - [공통](https://applebanana.atlassian.net/wiki/spaces/SPHAR/pages/2457601)
